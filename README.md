@@ -1,5 +1,5 @@
 
-# Traduction Automatique - TP Machine Translation
+# Traduction Automatique
 
 Ce TP vise à implémenter un modèle de traduction automatique entre l'anglais et le français. 
 Vous devrez comparer les performances de trois architectures différentes :
